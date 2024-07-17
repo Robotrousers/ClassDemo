@@ -1,0 +1,17 @@
+How to make money with one movie
+Sarah, Jack, Chris, Chuck
+
+The focus of this project is to determine how to make the most money possible on a single movie. We are representatives of a small indie film company, $Mo Money$ Movie$. We joined together through our shared love of movies and making money. We are working on a proposal to make a single perfect movie in order to grow our company and continue our filming journey. In order to do this, we are using OMDb and IMDb API and database to analyze movie budgets, profits, and ratings.
+
+We will be analyzing movies between the years of 2005-2015. This decade was chosen to take into consideration the rise of streaming platforms also creating movies without getting tangled in COVID data. We do not discriminate against any production company that will give us money! We will analyze:
+•	Total movie budget
+•	Total movie profit
+•	Movie genre
+•	Total ratings
+•	Critic vs general audience ratings
+In addition to years, our movies will also be limited to the top 50 movies of each year. The “top” movies will be determined using number of ratings in order to avoid including movies which have only two 100% votes. By utilizing this method of number of votes, we believe we will be pulling the most watched and therefore most paid-for movies. 
+
+Chris – API configuration
+Jack – Budget coding
+Sarah – Ratings coding
+Chuck – Genre coding
